@@ -30,7 +30,7 @@ span{
              font-size: 25px;
 }
 .image-width{
-    width:170%;
+    width:173%;
    
 }
 
@@ -114,4 +114,32 @@ span{
                     margin-left: 10px;
                     color: rgb(27, 21, 21);
 
+}
+.font-style-forthdiv{
+                  
+                   font-family:Verdana, Geneva, Tahoma, sans-serif;
+                  
+                    
+                   margin-left: 50px;  
+                   margin-bottom: 80px;
+}
+.bg-image{
+
+ background-image: url(foodcover2.png);
+    height: 500px;
+    
+}
+.display-forthdiv{
+    display: flex;
+    padding: 5%;
+    background-image: url(foodcover2.png);
+
+}
+.button-style-forthdiv{
+    text-decoration:violet;
+    background-image: linear-gradient(rgb(153, 230, 11) , orangered );
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: rgb(204, 255, 204);
+    font-size: 25px;
 }
