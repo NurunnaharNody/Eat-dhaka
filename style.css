@@ -19,6 +19,7 @@ span{
 .font-family{
     font-family:monospace;
     color: rgb(95, 89, 89);
+    font-size: x-large;
 }
 .button-style{
              text-decoration: none;
@@ -47,4 +48,70 @@ span{
     background-image: url(7.png);
     background-repeat: no-repeat;
     
+}
+.font-size{
+             text-align: center;
+             font-size: x-large;
+}
+.font-size-forrecipie{
+    font-family:cursive;
+    font-size:50px;
+    color: rgb(53, 50, 50);
+}
+.display-for-thireddiv{
+    display:flex;
+    padding-left: 5%;
+    padding-top: 3%;
+    
+}
+.display-project1{
+
+    padding:5px;
+    box-shadow: 10px 10px 30px gray;
+    margin:2px 50px 40px 5px;
+    border-radius: 40px;
+   
+    
+    
+}
+
+.display-project2{
+    
+    padding: 5px;
+    box-shadow: 10px 10px 30px gray;
+    margin:2px 50px 40px 5px;
+    border-radius: 40px;
+    
+}
+.display-project3{
+    
+    padding: 5px;
+    box-shadow: 10px 10px 30px gray;
+    margin:2px 50px 40px 5px;
+    border-radius: 40px;
+}
+.image-for-thireddiv{
+
+             
+             width:90%;
+             height: 50%;
+             border-radius: 30px;
+            margin: 10px 5px 0px 15px;
+
+}
+.font-size-forrecipietitle{
+
+           font-family: cursive;
+           font-size: 35px;
+           margin-left: 10px;
+           
+
+}
+.font-size-forrecipiefood{
+                    font-size: 15px;
+                    font-family:monospace;
+                    text-align:left;
+                    margin-left: 10px;
+                    color: rgb(27, 21, 21);
+
 }
