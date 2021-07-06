@@ -1,0 +1,50 @@
+.font-style{
+    font-family: 'Encode Sans SC', sans-serif;
+    font-size: 60px;
+
+}
+.display{
+           display: flex;
+           padding: 5%;
+
+}
+.font-margin{
+    margin-top: 50px;
+
+    padding: 5%;
+}
+span{
+    color: orangered;
+}
+.font-family{
+    font-family:monospace;
+    color: rgb(95, 89, 89);
+}
+.button-style{
+             text-decoration: none;
+             background-image: linear-gradient(tomato , orangered );
+             padding: 20px 60px;
+             border-radius: 50px;
+             color: honeydew;
+             font-size: 25px;
+}
+.image-width{
+    width:170%;
+   
+}
+
+.secound-display{
+    display:flex;
+    padding: 70px 50px 30px 280px; 
+    margin-left: 0px;
+}
+.font-stylefor-secound-section{
+    margin: 30px 90px 20px 300px;
+}
+
+
+.display-image{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    
+}
