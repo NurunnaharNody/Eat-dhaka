@@ -1,3 +1,24 @@
+
+.font-style-top{
+
+          font-family:Georgia, 'Times New Roman', Times, serif;
+          font-size: 50px;
+
+          margin: 0px 50px 0px 5px;
+          color:rgb(247, 116, 9);
+
+}
+.button-style-top{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(250, 226, 148) , orangered );
+    padding: 5px 20px;
+    border-radius: 50px;
+    color: honeydew;
+    font-size: 25px;
+    margin: 50px 30px 5px 60px;
+}
+
+
 .font-style{
     font-family: 'Encode Sans SC', sans-serif;
     font-size: 60px;
@@ -5,7 +26,7 @@
 }
 .display{
            display: flex;
-           padding: 5%;
+           padding: 1%;
 
 }
 .font-margin{
@@ -23,12 +44,13 @@ span{
 }
 .button-style{
              text-decoration: none;
-             background-image: linear-gradient(tomato , orangered );
+             background-image: linear-gradient(rgb(250, 163, 148) , orangered );
              padding: 20px 60px;
              border-radius: 50px;
              color: honeydew;
              font-size: 25px;
 }
+
 .image-width{
     width:173%;
    
@@ -130,7 +152,7 @@ span{
     
 }
 .display-forthdiv{
-    display: flex;
+    
     padding: 5%;
     background-image: url(foodcover2.png);
 
@@ -142,4 +164,51 @@ span{
     border-radius: 50px;
     color: rgb(204, 255, 204);
     font-size: 25px;
+}
+.login-form-style{
+          
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 30px;
+          color: rgb(15, 13, 8);
+          border-radius: 20px;
+          padding: 10px 40px;
+          background-image: linear-gradient(rgb(243, 104, 11),rgb(255, 26, 9));
+          margin: 0px 700px 2px 50px;
+}
+.button-style-login{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 179, 169) , rgb(255, 69, 1) );
+    padding: 5px 15px;
+    border-radius: 50px;
+    color: honeydew;
+    font-size: 10px;
+}
+.follower-display{
+    display: flex;
+    background-image: linear-gradient(white , rgb(231, 231, 236));
+    height: 200px;
+    margin: 40px 250px 50px 250px;
+    border-radius: 30px;
+    
+}
+.follower-font{
+    
+    padding: 20px 60px 30px 70px;
+}
+
+.footer-display{
+
+           background-image: linear-gradient(rgba(7, 7, 7, 0.075) , rgb(4, 4, 39));
+           height: 250px;
+}
+footer{
+     margin: 5px 500px 5px 500px;
+
+}
+footer h1{
+    font-size: 50px;
+    color: rgba(238, 128, 43, 0.658);
+}
+footer h2{
+    font-size: 20px;
 }
